@@ -20,10 +20,10 @@ No one will hold the central authority of the process, but everyone will be a pa
 ## Files and Programs
 
 #### 1. HR_management.sol
-Blockchain implementation File.
+Decentralized application implementation File (main).
 
 #### 2. ERC20Interface.sol and ERC20Token.sol
-Token mechanism implementation for the Application.
+Token mechanism implementated in the Application.
 
 #### 3. h_r_managemant.js
 Containing the testing framework implemented for the Application.
