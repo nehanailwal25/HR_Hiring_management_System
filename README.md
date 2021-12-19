@@ -16,3 +16,19 @@ No one will hold the central authority of the process, but everyone will be a pa
 - Truffle
 - Ethereum
 - Ganache
+
+## Files and Programs
+
+#### HR_management.sol
+Blockchain implementation File.
+
+#### ERC20Interface.sol and ERC20Token.sol
+Token mechanism implementation for the Application.
+
+#### h_r_managemant.js
+Containing the testing framework implemented for the Application.
+
+###### Testing Evaluation criterias:
+  * Functional Testing
+  * Performance Testing
+  * Security Testing
