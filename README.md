@@ -16,6 +16,7 @@ No one will hold the central authority of the process, but everyone will be a pa
 - Truffle
 - Ethereum
 - Ganache
+- Solidiy and JavaScript (Languages)
 
 ## Files and Programs
 
@@ -31,4 +32,3 @@ Containing the testing framework implemented for the Application.
 ###### Testing Evaluation criterias:
   * Functional Testing
   * Performance Testing
-  * Security Testing
