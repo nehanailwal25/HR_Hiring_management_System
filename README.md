@@ -29,6 +29,6 @@ Token mechanism implementated in the Application.
 #### 3. h_r_managemant.js
 Containing the testing framework implemented for the Application.
 
-###### Testing Evaluation criterias:
+###### Testing / Evaluation criterias:
   * Functional Testing
   * Performance Testing
